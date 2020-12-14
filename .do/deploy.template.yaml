@@ -1,0 +1,7 @@
+spec:
+ name: happy-job
+ static_sites:
+ - git:
+     branch: main
+     repo_clone_url: https://github.com/loicboset/happy-job.git
+   name: happy-job
